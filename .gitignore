@@ -45,14 +45,6 @@ stock_env/
 *.out
 *.err
 
-# Ignore images and plots
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.pdf
-
 # Ignore temporary and system files
 .DS_Store
 Thumbs.db
