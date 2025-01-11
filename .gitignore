@@ -1,0 +1,64 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+stock_env/
+
+# Ignore environment configuration files
+*.env
+*.yaml
+*.yml
+
+# Ignore data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.h5
+*.pickle
+*.pkl
+*.joblib
+
+# Ignore model files
+*.h5
+*.hdf5
+*.onnx
+*.pb
+*.tflite
+*.pkl
+*.sav
+*.pt
+*.pth
+
+# Ignore logs and debug files
+*.log
+*.out
+*.err
+
+# Ignore images and plots
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+
+# Ignore temporary and system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp
+~$*
+
+
