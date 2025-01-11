@@ -148,14 +148,14 @@ The trained LightGBM model was deployed using a simple **Flask API**. The API ta
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/star-classification.git
+   git clone https://github.com/star-classification.git
    cd star-classification
    ```
 
 2. **Set Up a Virtual Environment**
    ```bash
    python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
+   source env/bin/activate  
    ```
 
 3. **Install Dependencies**
