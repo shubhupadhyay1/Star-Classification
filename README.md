@@ -1,8 +1,15 @@
+<!-- Header Image -->
+<p align="center">
+  <img src="images/header.png" alt="Star Classification Header" width="100%" />
+</p>
+
+
 # **Stellar Classification Using Machine Learning** 🚀✨
 
 Ever gazed up at the night sky and wondered if we could make sense of the countless stars scattered across the vast expanse of the cosmos? This project answers that question—by leveraging **machine learning** and **astrophysical theory** to build a star classification model that distinguishes between **dwarfs** and **giants** using data derived from **Kepler's space telescope** observations.
 
-This isn't just another ML project; it's a **stellar journey** that combines computational power with centuries-old astrophysical principles. And if that doesn't sound exciting enough, we've wrapped it all up with an interactive **Flask API**, so you can plug in your star data and get real-time predictions. Ready to take a leap into the stars? Let’s go!
+This project dives headfirst into the fusion of **machine learning** and **astronomy**, making star classification both powerful and captivating. By harnessing the explanatory power of **SHAP (SHapley Additive exPlanations)**, we break down how critical features—like temperature and luminosity—drive the model’s predictions. Coupled with an interactive **Flask API** for real-time predictions, this isn’t just another ML project—it’s a launchpad for exploring the cosmos. Whether you're an astrophysicist hunting for patterns or a space enthusiast eager to explore stellar mysteries, this project turns the night sky into your playground.
+
 
 ---
 
@@ -180,6 +187,18 @@ The trained LightGBM model was deployed using a simple **Flask API**. The API ta
 - **NASA's Kepler Mission** for providing the raw stellar data.
 - The scientific community behind **astrophysical relations** that made feature engineering possible.
   
+---
+
+---
+
+## **Creator** 👨‍💻
+
+If you’re curious about the project or want to collaborate, feel free to connect:
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhupadhyay1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-upadhyay/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shubh_upadhyayy)
+
 ---
 
 ## **License** 📜
