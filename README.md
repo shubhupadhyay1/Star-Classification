@@ -90,7 +90,7 @@ Luminosity is a measure of the total energy output of a star. Using the absolute
 <img src="images/luminosity.png" alt="Luminosity"  width="400" height="auto">
 </p>
 
-where \(M_{\odot}\) is the Sun’s absolute magnitude (\(\approx 4.8\)).
+where M_dot is the Sun’s absolute magnitude (\(\approx 4.8\)).
 
 ---
 
