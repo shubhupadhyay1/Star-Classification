@@ -37,11 +37,11 @@ Here’s how the project is structured to ensure modularity and scalability:
 
 Stars are more than just twinkling dots in the sky. They’re **cosmic furnaces**, forging elements that make up the very fabric of life. Classifying stars helps astronomers better understand stellar evolution, galaxy formation, and even the potential for habitable planets.
 
-This project was inspired by the **Harvard spectral classification system** and the **Hertzsprung-Russell diagram**, two pivotal contributions in astrophysics that help distinguish stars by their luminosity, temperature, and size. We sought to bring these principles into the world of machine learning by creating a model that can classify stars based on measurable features such as **parallax**, **visual magnitude**, and **color index**.
+This project was inspired by the **Harvard spectral classification system** and the **NASA Exoplanet program**, two pivotal contributions in astrophysics that help distinguish stars by their luminosity, temperature, and size. We sought to bring these principles into the world of machine learning by creating a model that can classify stars based on measurable features such as **parallax**, **visual magnitude**, and **color index**.
 
 ---
 
-## **Astrophysical Theory Behind the Features** 🔭
+## **Theory Behind the Features** 🔭
 
 Before diving into the ML workflow, let’s geek out on some **astrophysical concepts**:
 
