@@ -189,8 +189,6 @@ The trained LightGBM model was deployed using a simple **Flask API**. The API ta
   
 ---
 
----
-
 ## **Creator** 👨‍💻
 
 If you’re curious about the project or want to collaborate, feel free to connect:
