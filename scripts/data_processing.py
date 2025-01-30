@@ -5,7 +5,6 @@ def load_and_clean_data(file_path):
     """Loads dataset and performs initial cleaning."""
     raw = pd.read_csv(file_path)
     
-    # Example cleaning steps (customize as needed)
     raw_cleaned = raw.dropna().reset_index(drop=True)
     raw_cleaned.drop_duplicates(inplace=True)
 
@@ -29,5 +28,5 @@ def feature_engineering(df):
 if __name__ == '__main__':
     df = load_and_clean_data('data/raw/Star99999_raw.csv')
     df = feature_engineering(df)
-    print(df.head())  # Display first few rows to check the output
+    print(df.head())  
 
